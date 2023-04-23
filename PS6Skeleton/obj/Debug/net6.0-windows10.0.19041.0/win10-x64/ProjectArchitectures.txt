@@ -1,0 +1,1 @@
+C:\Users\lucas\source\repos\spreadsheet-Saint-Luke\spreadsheet-Saint-Luke-main\Spreadsheet\PS6Skeleton\SpreadsheetGUI.csproj;x64
